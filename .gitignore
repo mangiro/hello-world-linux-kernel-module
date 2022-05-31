@@ -2,7 +2,7 @@ src/hello_world_LKM.ko
 src/hello_world_LKM.mod.c
 src/.hello_world_LKM.mod.o.cmd
 src/Module.symvers
-src/.hello_world_LKM.ko.cmd 
+src/.hello_world_LKM.ko.cmd
 src/.hello_world_LKM.mod.cmd
 src/hello_world_LKM.o
 src/modules.order
@@ -11,3 +11,4 @@ src/hello_world_LKM.mod
 src/hello_world_LKM.mod.o
 src/.hello_world_LKM.o.cmd
 src/.modules.order.cmd
+.vscode/

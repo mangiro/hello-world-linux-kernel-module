@@ -2,7 +2,7 @@
 #include <linux/module.h>
 
 
-/* Meta Information */
+/* Meta Information. */
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Gabriel Mangiro");
 MODULE_DESCRIPTION("An example of a Hello World Linux Kernel Module.");

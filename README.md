@@ -13,3 +13,4 @@ in this case, it was the action that the module performed when it was inserted i
 Once you've inserted the module, it's time to remove it, just run the `make out` command, you will see a message saying "Goodbye from Kernel!", 
 this is the action that the module performed at the moment that was removed from the Kernel 
 and then at the end it cleans the directory with the files that were created for the module.
+

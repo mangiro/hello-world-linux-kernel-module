@@ -2,7 +2,7 @@
 This project is just an introductory example of how we can start thinking about creating a module for the Linux Kernel.
 #
 ## How to run this
-***Did this on Pop!_OS 20.04.***
+***Did this on Pop!_OS 20.04***
 
 ***This will ask for sudo permissions as these are very low level actions.***
 
